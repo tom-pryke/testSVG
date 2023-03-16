@@ -1,8 +1,7 @@
 # testSVG
 testSVG
-![Alt text](./controllers_brief.svg)
-IMAGE:
 
+IMAGE:
 
 
 <img src="./sample.svg">
